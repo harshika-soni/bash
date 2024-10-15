@@ -9,7 +9,7 @@ public class Amazon {
 	public static void main(String[] args) {
 		
 		//launching the browser
-		
+		//Chrome Browser
 		 WebDriver driver= new ChromeDriver();
 		 
 		 driver.manage().window().maximize();//maximize browser
